@@ -65,7 +65,7 @@
  
  
 ## 产品结构图
-[!img2](https://github.com/kabiyangyang/Deep_stereo_brush---prd/blob/main/img/截屏2021-08-17%2018.25.03.png)
+![产品结构图](https://github.com/kabiyangyang/Deep_stereo_brush---prd/blob/main/img/截屏2021-08-17%2018.25.03.png)
  
  
  
